@@ -3,4 +3,17 @@ Free And Open Source Image Viewer written in Qt/C++
 
 ## If you want to open project in QCreator, the .pro files are in qpImageViewer-pro.zip
 
+After downloading, make it executable with checking the executable box in file properties.
+![Screenshot_2023-09-03_16-38-08](https://github.com/paminks/qpImageViewer/assets/101468578/18ce3315-8812-435d-bd7c-928c9af7cdc8)
+
+Or locate the extracted file in your terminal with
+```
+cd
+```
+command.
+
+And make it executable with 
+```
+chmod +x ./qpImageViewer
+```
 
