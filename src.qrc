@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>icons8-next-page-90.png</file>
+        <file>previous90.png</file>
+        <file>video.png</file>
+        <file>logo2.png</file>
+        <file>about.jpg</file>
+    </qresource>
+</RCC>
